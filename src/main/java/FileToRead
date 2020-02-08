@@ -1,0 +1,248 @@
+[{
+  "uniqueName": "King Shan",
+  "gender":"Male",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "Queen Anga",
+  "Children": ["Chit","Ish","Vich","Aras","Satya"]
+
+},
+{
+  "uniqueName": "Queen Anga",
+  "gender":"Female",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "King Shan",
+  "Children": ["Chit","Ish","Vich","Aras","Satya"]
+},
+{
+  "uniqueName": "Chit",
+  "gender":"Male",
+  "Father":"King Shan",
+  "Mother":"Queen Anga",
+  "Spouse": "Amba",
+  "Children": ["Dritha","Tritha","Vritha"]
+},
+{
+  "uniqueName": "Amba",
+  "gender":"Female",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "Chit",
+  "Children": ["Dritha","Tritha","Vritha"]
+},
+{
+  "uniqueName": "Ish",
+  "gender":"Male",
+  "Father":"King Shan",
+  "Mother":"Queen Anga",
+  "Spouse": null,
+  "Children": null
+},
+{
+  "uniqueName": "Vich",
+  "gender":"Male",
+  "Father":"King Shan",
+  "Mother":"Queen Anga",
+  "Spouse": "Lika",
+  "Children": ["Vila","Chika"]
+},
+{
+  "uniqueName": "Lika",
+  "gender":"Female",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "Vich",
+  "Children": ["Vila","Chika"]
+},
+{
+  "uniqueName": "Aras",
+  "gender":"Male",
+  "Father":"King Shan",
+  "Mother":"Queen Anga",
+  "Spouse": "Chitra",
+  "Children": ["Jnki","Ahit"]
+},
+{
+  "uniqueName": "Chitra",
+  "gender":"Female",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "Aras",
+  "Children": ["Jnki","Ahit"]
+},
+{ "uniqueName": "Satya",
+  "gender":"Female",
+  "Father":"King Shan",
+  "Mother":"Queen Anga",
+  "Spouse": "Vyan",
+  "Children": ["Asva","Vyas","Atya"]
+},
+{
+  "uniqueName": "Vyan",
+  "gender":"Male",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "Satya",
+  "Children":  ["Asva","Vyas","Atya"]
+},
+{
+  "uniqueName": "Dritha",
+  "gender":"Female",
+  "Father":"Chit",
+  "Mother":"Amba",
+  "Spouse": "Jaya",
+  "Children":  ["Yodhan"]
+},
+{
+  "uniqueName": "Jaya",
+  "gender":"Male",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "Dritha",
+  "Children":  ["Yodhan"]
+},
+{
+  "uniqueName": "Tritha",
+  "gender":"Female",
+  "Father":"Chit",
+  "Mother":"Amba",
+  "Spouse": null,
+  "Children": null
+},
+{
+  "uniqueName": "Vritha",
+  "gender":"Male",
+  "Father":"Chit",
+  "Mother":"Amba",
+  "Spouse": null,
+  "Children": null
+},
+{
+  "uniqueName": "Vila",
+  "gender":"Female",
+  "Father":"Vich",
+  "Mother":"Lika",
+  "Spouse": null,
+  "Children": null
+},
+{
+  "uniqueName": "Chika",
+  "gender":"Female",
+  "Father":"Vich",
+  "Mother":"Lika",
+  "Spouse": null,
+  "Children": null
+},
+{
+  "uniqueName": "Jnki",
+  "gender":"Female",
+  "Father":"Aras",
+  "Mother":"Chitra",
+  "Spouse": "Arit",
+  "Children":  ["Laki","Lavnya"]
+},
+{
+  "uniqueName": "Arit",
+  "gender":"Male",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "Jnki",
+  "Children":  ["Laki","Lavnya"]
+},
+{
+  "uniqueName": "Ahit",
+  "gender":"Male",
+  "Father":"Aras",
+  "Mother":"Chitra",
+  "Spouse": null,
+  "Children": null
+},
+{
+  "uniqueName": "Asva",
+  "gender":"Male",
+  "Father":"Vyan",
+  "Mother":"Satya",
+  "Spouse": "Satvy",
+  "Children":  ["Vasa"]
+},
+{
+  "uniqueName": "Satvy",
+  "gender":"Female",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "Asva",
+  "Children":  ["Vasa"]
+},
+{
+   "uniqueName": "Vyas",
+  "gender":"Male",
+  "Father":"Vyan",
+  "Mother":"Satya",
+  "Spouse": "Krpi",
+  "Children":  ["Kriya","Krithi"]
+},
+{
+  "uniqueName": "Krpi",
+  "gender":"Female",
+  "Father":null,
+  "Mother":null,
+  "Spouse": "Vyas",
+  "Children": ["Kriya","Krithi"]
+},
+{
+  "uniqueName": "Atya",
+  "gender":"Female",
+  "Father":"Vyan",
+  "Mother":"Satya",
+  "Spouse": null,
+  "Children":null
+},
+{
+  "uniqueName": "Yodhan",
+  "gender":"Male",
+  "Father":"Jaya",
+  "Mother":"Dritha",
+  "Spouse": null,
+  "Children":null
+},
+{
+  "uniqueName": "Laki",
+  "gender":"Male",
+  "Father":"Arit",
+  "Mother":"Jnki",
+  "Spouse": null,
+  "Children":null
+},
+{
+  "uniqueName": "Lavnya",
+  "gender":"Female",
+  "Father":"Arit",
+  "Mother":"Jnki",
+  "Spouse": null,
+  "Children":null
+},
+{
+  "uniqueName": "Vasa",
+  "gender":"Male",
+  "Father":"Asva",
+  "Mother":"Satvy",
+  "Spouse": null,
+  "Children":null
+},
+{
+  "uniqueName": "Kriya",
+  "gender":"Male",
+  "Father":"Vyas",
+  "Mother":"Krpi",
+  "Spouse": null,
+  "Children":null
+},
+{
+  "uniqueName": "Krithi",
+  "gender":"Female",
+  "Father":"Vyas",
+  "Mother":"Krpi",
+  "Spouse": null,
+  "Children":null
+}]
